@@ -1,2 +1,3 @@
 La programación es como resolver acertijos.
-agrego la primera frase
+agrego la primera frase.
+agrego la segunda frase.
