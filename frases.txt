@@ -1,7 +1,14 @@
 La programación es como resolver acertijos.
 
+agrego la primera frase.
+agrego la segunda frase.
+agrego la tercera frase.
+agrego la cuarta frase.
+agrego la quita frase.
+
 Frase nuemro uno
 Frase numero dos
 Frase numero tres
 Frase numero cuatro
 Frase numero cinco
+
